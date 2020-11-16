@@ -5,5 +5,3 @@
   tasks:
     - debug:
         var: test_variable_foo
-    - debug:
-        var: test_variable_bar
